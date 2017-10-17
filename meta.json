@@ -1,0 +1,16 @@
+{
+  "package_id"     : "mesh-test",
+  "package_type"   : "app",
+  "caption_en"     : "Mesheven Test",
+  "caption_zh"     : "",
+  "description_en" : "Mesheven Test",
+  "description_zh" : "",
+  "dependencies":
+  {
+    "mesh-app" : "0.0.8"
+  },
+  "projects":
+  [
+    "mesh-ui"
+  ]
+}
